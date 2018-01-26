@@ -4,7 +4,6 @@ This is a Spring MVC boilerplate. Download it and get started right away. Simply
 
 ```
 mvn jetty:run
-
 ```
 
 to run the project. You can then visit http://localhost:8080/hello
